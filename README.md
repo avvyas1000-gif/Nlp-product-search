@@ -280,3 +280,7 @@ Possible improvements include:
 ## License
 
 This project is licensed under the MIT License.
+
+## Acknowledgements
+
+I would like to thank Saurabh Soni Sir (Gen AI Engineer, Regex Software Services) for his guidance and support throughout this project.
