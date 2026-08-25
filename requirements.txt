@@ -1,0 +1,7 @@
+spacy
+scikit-learn
+mysql
+fastapi
+mysql-connector-python
+pandas
+nltk

@@ -1,0 +1,111 @@
+product_id,product_name,description,price,category,brand,color,style,use_case
+P101,Black Nike Running Shoes,"Comfortable black running running shoes by Nike, suitable for running.",2299,Shoes,Nike,Black,Running,Running
+P102,Brown Nike Leather Formal Shoes,"Comfortable brown formal leather formal shoes by Nike, suitable for gym.",1599,Shoes,Nike,Brown,Formal,Gym
+P103,White Nike Running Shoes,"Comfortable white casual running shoes by Nike, suitable for office.",5999,Shoes,Nike,White,Casual,Office
+P104,Blue Skechers Casual Sneakers,"Comfortable blue casual casual sneakers by Skechers, suitable for gym.",1499,Shoes,Skechers,Blue,Casual,Gym
+P105,Blue Adidas Running Shoes,"Comfortable blue running running shoes by Adidas, suitable for daily wear.",2799,Shoes,Adidas,Blue,Running,Daily Wear
+P106,Black Puma Leather Formal Shoes,"Comfortable black formal leather formal shoes by Puma, suitable for gym.",3699,Shoes,Puma,Black,Formal,Gym
+P107,Brown Puma Sports Shoes,"Comfortable brown running sports shoes by Puma, suitable for office.",4899,Shoes,Puma,Brown,Running,Office
+P108,Blue Nike Casual Sneakers,"Comfortable blue formal casual sneakers by Nike, suitable for daily wear.",5099,Shoes,Nike,Blue,Formal,Daily Wear
+P109,Black Adidas Casual Sneakers,"Comfortable black formal casual sneakers by Adidas, suitable for running.",1999,Shoes,Adidas,Black,Formal,Running
+P110,Black Adidas Sports Shoes,"Comfortable black sports sports shoes by Adidas, suitable for daily wear.",5499,Shoes,Adidas,Black,Sports,Daily Wear
+P111,White Puma Running Shoes,"Comfortable white running running shoes by Puma, suitable for daily wear.",5699,Shoes,Puma,White,Running,Daily Wear
+P112,Black Puma Running Shoes,"Comfortable black casual running shoes by Puma, suitable for running.",4399,Shoes,Puma,Black,Casual,Running
+P113,Red Bata Leather Formal Shoes,"Comfortable red casual leather formal shoes by Bata, suitable for daily wear.",2899,Shoes,Bata,Red,Casual,Daily Wear
+P114,Red Nike Leather Formal Shoes,"Comfortable red sports leather formal shoes by Nike, suitable for daily wear.",2799,Shoes,Nike,Red,Sports,Daily Wear
+P115,Red Skechers Sports Shoes,"Comfortable red casual sports shoes by Skechers, suitable for gym.",5599,Shoes,Skechers,Red,Casual,Gym
+P116,Blue Roadster Running Jacket,"Comfortable blue outdoor running jacket by Roadster, suitable for travel.",6699,Jackets,Roadster,Blue,Outdoor,Travel
+P117,Green Wildcraft Windcheater,"Comfortable green outdoor windcheater by Wildcraft, suitable for daily wear.",4299,Jackets,Wildcraft,Green,Outdoor,Daily Wear
+P118,Blue Adidas Waterproof Jacket,"Comfortable blue waterproof waterproof jacket by Adidas, suitable for running.",7499,Jackets,Adidas,Blue,Waterproof,Running
+P119,Blue Nike Waterproof Jacket,"Comfortable blue casual waterproof jacket by Nike, suitable for daily wear.",4399,Jackets,Nike,Blue,Casual,Daily Wear
+P120,Green Roadster Waterproof Jacket,"Comfortable green waterproof waterproof jacket by Roadster, suitable for hiking.",6299,Jackets,Roadster,Green,Waterproof,Hiking
+P121,Green Nike Waterproof Jacket,"Comfortable green outdoor waterproof jacket by Nike, suitable for hiking.",3799,Jackets,Nike,Green,Outdoor,Hiking
+P122,Blue Roadster Winter Jacket,"Comfortable blue waterproof winter jacket by Roadster, suitable for running.",5199,Jackets,Roadster,Blue,Waterproof,Running
+P123,Green Adidas Running Jacket,"Comfortable green running running jacket by Adidas, suitable for hiking.",2899,Jackets,Adidas,Green,Running,Hiking
+P124,Blue Puma Windcheater,"Comfortable blue running windcheater by Puma, suitable for hiking.",2099,Jackets,Puma,Blue,Running,Hiking
+P125,Red Nike Waterproof Jacket,"Comfortable red outdoor waterproof jacket by Nike, suitable for travel.",3499,Jackets,Nike,Red,Outdoor,Travel
+P126,Black Wildcraft Waterproof Jacket,"Comfortable black running waterproof jacket by Wildcraft, suitable for daily wear.",6799,Jackets,Wildcraft,Black,Running,Daily Wear
+P127,Blue Wildcraft Running Jacket,"Comfortable blue casual running jacket by Wildcraft, suitable for daily wear.",3599,Jackets,Wildcraft,Blue,Casual,Daily Wear
+P128,Green Wildcraft Running Jacket,"Comfortable green waterproof running jacket by Wildcraft, suitable for travel.",6499,Jackets,Wildcraft,Green,Waterproof,Travel
+P129,Grey Puma Windcheater,"Comfortable grey outdoor windcheater by Puma, suitable for daily wear.",2699,Jackets,Puma,Grey,Outdoor,Daily Wear
+P130,Blue Adidas Waterproof Jacket,"Comfortable blue running waterproof jacket by Adidas, suitable for hiking.",5699,Jackets,Adidas,Blue,Running,Hiking
+P131,White Roadster Cotton Shirt,"Comfortable white casual cotton shirt by Roadster, suitable for office.",2999,Shirts,Roadster,White,Casual,Office
+P132,White Levis Casual Shirt,"Comfortable white formal casual shirt by Levis, suitable for office.",999,Shirts,Levis,White,Formal,Office
+P133,White Roadster Formal Shirt,"Comfortable white slim fit formal shirt by Roadster, suitable for college.",2499,Shirts,Roadster,White,Slim Fit,College
+P134,Green Peter England Oxford Shirt,"Comfortable green regular fit oxford shirt by Peter England, suitable for daily wear.",2099,Shirts,Peter England,Green,Regular Fit,Daily Wear
+P135,Black Peter England Casual Shirt,"Comfortable black formal casual shirt by Peter England, suitable for college.",2099,Shirts,Peter England,Black,Formal,College
+P136,Red Van Heusen Cotton Shirt,"Comfortable red formal cotton shirt by Van Heusen, suitable for office.",1999,Shirts,Van Heusen,Red,Formal,Office
+P137,Black Allen Solly Formal Shirt,"Comfortable black casual formal shirt by Allen Solly, suitable for daily wear.",2499,Shirts,Allen Solly,Black,Casual,Daily Wear
+P138,White Van Heusen Casual Shirt,"Comfortable white regular fit casual shirt by Van Heusen, suitable for daily wear.",2199,Shirts,Van Heusen,White,Regular Fit,Daily Wear
+P139,Black Peter England Cotton Shirt,"Comfortable black regular fit cotton shirt by Peter England, suitable for office.",2799,Shirts,Peter England,Black,Regular Fit,Office
+P140,Black Roadster Formal Shirt,"Comfortable black formal formal shirt by Roadster, suitable for daily wear.",2099,Shirts,Roadster,Black,Formal,Daily Wear
+P141,Red Van Heusen Cotton Shirt,"Comfortable red casual cotton shirt by Van Heusen, suitable for college.",1299,Shirts,Van Heusen,Red,Casual,College
+P142,Black Van Heusen Oxford Shirt,"Comfortable black regular fit oxford shirt by Van Heusen, suitable for party.",1699,Shirts,Van Heusen,Black,Regular Fit,Party
+P143,Green Van Heusen Formal Shirt,"Comfortable green regular fit formal shirt by Van Heusen, suitable for daily wear.",1699,Shirts,Van Heusen,Green,Regular Fit,Daily Wear
+P144,Black Peter England Cotton Shirt,"Comfortable black formal cotton shirt by Peter England, suitable for party.",899,Shirts,Peter England,Black,Formal,Party
+P145,Red Roadster Cotton Shirt,"Comfortable red casual cotton shirt by Roadster, suitable for office.",1299,Shirts,Roadster,Red,Casual,Office
+P146,Black Dell Laptop,"Comfortable black gaming laptop by Dell, suitable for programming.",98299,Laptops,Dell,Black,Gaming,Programming
+P147,Black HP Gaming Laptop,"Comfortable black business gaming laptop by HP, suitable for programming.",66699,Laptops,HP,Black,Business,Programming
+P148,Silver HP Ultrabook,"Comfortable silver gaming ultrabook by HP, suitable for study.",53399,Laptops,HP,Silver,Gaming,Study
+P149,Blue Lenovo Laptop,"Comfortable blue lightweight laptop by Lenovo, suitable for office.",86899,Laptops,Lenovo,Blue,Lightweight,Office
+P150,Black Asus Gaming Laptop,"Comfortable black business gaming laptop by Asus, suitable for gaming.",53499,Laptops,Asus,Black,Business,Gaming
+P151,Black Lenovo Gaming Laptop,"Comfortable black gaming gaming laptop by Lenovo, suitable for study.",56099,Laptops,Lenovo,Black,Gaming,Study
+P152,Silver Acer Laptop,"Comfortable silver business laptop by Acer, suitable for study.",53699,Laptops,Acer,Silver,Business,Study
+P153,Black Lenovo Gaming Laptop,"Comfortable black business gaming laptop by Lenovo, suitable for gaming.",68799,Laptops,Lenovo,Black,Business,Gaming
+P154,Grey Asus Gaming Laptop,"Comfortable grey lightweight gaming laptop by Asus, suitable for gaming.",91699,Laptops,Asus,Grey,Lightweight,Gaming
+P155,Silver Acer Ultrabook,"Comfortable silver business ultrabook by Acer, suitable for office.",68299,Laptops,Acer,Silver,Business,Office
+P156,Black Dell Gaming Laptop,"Comfortable black lightweight gaming laptop by Dell, suitable for gaming.",56499,Laptops,Dell,Black,Lightweight,Gaming
+P157,Blue Acer Laptop,"Comfortable blue business laptop by Acer, suitable for office.",55199,Laptops,Acer,Blue,Business,Office
+P158,Black Asus Ultrabook,"Comfortable black lightweight ultrabook by Asus, suitable for gaming.",52999,Laptops,Asus,Black,Lightweight,Gaming
+P159,Silver Dell Gaming Laptop,"Comfortable silver lightweight gaming laptop by Dell, suitable for office.",61499,Laptops,Dell,Silver,Lightweight,Office
+P160,Black HP Notebook Laptop,"Comfortable black lightweight notebook laptop by HP, suitable for programming.",64199,Laptops,HP,Black,Lightweight,Programming
+P161,White JBL Bluetooth Headphones,"Comfortable white sports bluetooth headphones by JBL, suitable for music.",9999,Headphones,JBL,White,Sports,Music
+P162,White Sennheiser Wireless Headphones,"Comfortable white noise cancelling wireless headphones by Sennheiser, suitable for gaming.",11199,Headphones,Sennheiser,White,Noise Cancelling,Gaming
+P163,Red Sony Gaming Headset,"Comfortable red over-ear gaming headset by Sony, suitable for gaming.",10399,Headphones,Sony,Red,Over-Ear,Gaming
+P164,White Boat Bluetooth Headphones,"Comfortable white over-ear bluetooth headphones by Boat, suitable for music.",11699,Headphones,Boat,White,Over-Ear,Music
+P165,Blue Boat Noise Cancelling Headphones,"Comfortable blue wireless noise cancelling headphones by Boat, suitable for travel.",17899,Headphones,Boat,Blue,Wireless,Travel
+P166,Red Bose Wireless Headphones,"Comfortable red noise cancelling wireless headphones by Bose, suitable for music.",8099,Headphones,Bose,Red,Noise Cancelling,Music
+P167,Blue JBL Gaming Headset,"Comfortable blue wireless gaming headset by JBL, suitable for music.",10299,Headphones,JBL,Blue,Wireless,Music
+P168,Red Boat Bluetooth Headphones,"Comfortable red wireless bluetooth headphones by Boat, suitable for office.",7999,Headphones,Boat,Red,Wireless,Office
+P169,Red Sony Noise Cancelling Headphones,"Comfortable red wireless noise cancelling headphones by Sony, suitable for gaming.",12499,Headphones,Sony,Red,Wireless,Gaming
+P170,Blue Sony Noise Cancelling Headphones,"Comfortable blue noise cancelling noise cancelling headphones by Sony, suitable for music.",14399,Headphones,Sony,Blue,Noise Cancelling,Music
+P171,Red Boat Noise Cancelling Headphones,"Comfortable red noise cancelling noise cancelling headphones by Boat, suitable for office.",15599,Headphones,Boat,Red,Noise Cancelling,Office
+P172,White JBL Bluetooth Headphones,"Comfortable white sports bluetooth headphones by JBL, suitable for office.",17199,Headphones,JBL,White,Sports,Office
+P173,Blue Bose Noise Cancelling Headphones,"Comfortable blue sports noise cancelling headphones by Bose, suitable for music.",8799,Headphones,Bose,Blue,Sports,Music
+P174,Red JBL Gaming Headset,"Comfortable red noise cancelling gaming headset by JBL, suitable for office.",12799,Headphones,JBL,Red,Noise Cancelling,Office
+P175,Red JBL Noise Cancelling Headphones,"Comfortable red over-ear noise cancelling headphones by JBL, suitable for music.",14599,Headphones,JBL,Red,Over-Ear,Music
+P176,Blue Sonata Sports Watch,"Comfortable blue formal sports watch by Sonata, suitable for daily wear.",6699,Watches,Sonata,Blue,Formal,Daily Wear
+P177,Silver Titan Digital Watch,"Comfortable silver formal digital watch by Titan, suitable for office.",13099,Watches,Titan,Silver,Formal,Office
+P178,Black Sonata Digital Watch,"Comfortable black classic digital watch by Sonata, suitable for party.",10799,Watches,Sonata,Black,Classic,Party
+P179,Brown Timex Analog Watch,"Comfortable brown casual analog watch by Timex, suitable for daily wear.",3699,Watches,Timex,Brown,Casual,Daily Wear
+P180,Silver Timex Analog Watch,"Comfortable silver casual analog watch by Timex, suitable for party.",7299,Watches,Timex,Silver,Casual,Party
+P181,Brown Casio Sports Watch,"Comfortable brown casual sports watch by Casio, suitable for party.",12299,Watches,Casio,Brown,Casual,Party
+P182,Gold Sonata Digital Watch,"Comfortable gold classic digital watch by Sonata, suitable for party.",13099,Watches,Sonata,Gold,Classic,Party
+P183,Blue Timex Chronograph Watch,"Comfortable blue casual chronograph watch by Timex, suitable for fitness.",7099,Watches,Timex,Blue,Casual,Fitness
+P184,Brown Fossil Digital Watch,"Comfortable brown formal digital watch by Fossil, suitable for fitness.",7899,Watches,Fossil,Brown,Formal,Fitness
+P185,Blue Fossil Digital Watch,"Comfortable blue formal digital watch by Fossil, suitable for daily wear.",6899,Watches,Fossil,Blue,Formal,Daily Wear
+P186,Silver Timex Chronograph Watch,"Comfortable silver casual chronograph watch by Timex, suitable for office.",11399,Watches,Timex,Silver,Casual,Office
+P187,Gold Fossil Analog Watch,"Comfortable gold classic analog watch by Fossil, suitable for party.",6199,Watches,Fossil,Gold,Classic,Party
+P188,Brown Timex Chronograph Watch,"Comfortable brown formal chronograph watch by Timex, suitable for party.",1099,Watches,Timex,Brown,Formal,Party
+P189,Blue Fossil Digital Watch,"Comfortable blue classic digital watch by Fossil, suitable for party.",13399,Watches,Fossil,Blue,Classic,Party
+P190,Blue Titan Analog Watch,"Comfortable blue classic analog watch by Titan, suitable for party.",10899,Watches,Titan,Blue,Classic,Party
+P191,Grey Skybags Travel Backpack,"Comfortable grey laptop travel backpack by Skybags, suitable for hiking.",4899,Bags,Skybags,Grey,Laptop,Hiking
+P192,Black Nike Laptop Backpack,"Comfortable black waterproof laptop backpack by Nike, suitable for travel.",5099,Bags,Nike,Black,Waterproof,Travel
+P193,Blue Puma Laptop Backpack,"Comfortable blue waterproof laptop backpack by Puma, suitable for office.",2599,Bags,Puma,Blue,Waterproof,Office
+P194,Red Puma Casual Backpack,"Comfortable red laptop casual backpack by Puma, suitable for hiking.",3099,Bags,Puma,Red,Laptop,Hiking
+P195,Red Puma Laptop Backpack,"Comfortable red waterproof laptop backpack by Puma, suitable for college.",3999,Bags,Puma,Red,Waterproof,College
+P196,Green Wildcraft Travel Backpack,"Comfortable green travel travel backpack by Wildcraft, suitable for college.",5099,Bags,Wildcraft,Green,Travel,College
+P197,Black Wildcraft Travel Backpack,"Comfortable black travel travel backpack by Wildcraft, suitable for office.",6299,Bags,Wildcraft,Black,Travel,Office
+P198,Green Wildcraft Travel Backpack,"Comfortable green laptop travel backpack by Wildcraft, suitable for office.",3999,Bags,Wildcraft,Green,Laptop,Office
+P199,Green Wildcraft Casual Backpack,"Comfortable green laptop casual backpack by Wildcraft, suitable for hiking.",5899,Bags,Wildcraft,Green,Laptop,Hiking
+P200,Blue Skybags Casual Backpack,"Comfortable blue travel casual backpack by Skybags, suitable for office.",1599,Bags,Skybags,Blue,Travel,Office
+P201,Black Nike Waterproof Backpack,"Comfortable black casual waterproof backpack by Nike, suitable for hiking.",6999,Bags,Nike,Black,Casual,Hiking
+P202,Black American Tourister Casual Backpack,"Comfortable black laptop casual backpack by American Tourister, suitable for travel.",6399,Bags,American Tourister,Black,Laptop,Travel
+P203,Black Nike Waterproof Backpack,"Comfortable black travel waterproof backpack by Nike, suitable for college.",5199,Bags,Nike,Black,Travel,College
+P204,Black Skybags Waterproof Backpack,"Comfortable black casual waterproof backpack by Skybags, suitable for travel.",6199,Bags,Skybags,Black,Casual,Travel
+P205,Black Puma Waterproof Backpack,"Comfortable black waterproof waterproof backpack by Puma, suitable for college.",5499,Bags,Puma,Black,Waterproof,College
+P500,Black Nike Leather Formal Shoes,Comfortable black leather formal shoes suitable for office,2499,Shoes,Nike,Black,Formal,Office
+P501,Black Adidas Waterproof Running Jacket,Lightweight waterproof black running jacket suitable for running,3999,Jackets,Adidas,Black,Waterproof,Running
+P502,Red Nike Running Shoes,Comfortable red Nike running shoes for running and gym,3499,Shoes,Nike,Red,Running,Running
+P503,Dell Lightweight Business Laptop,"Lightweight Dell laptop suitable for office, study and programming",55999,Laptops,Dell,Silver,Lightweight,Office
+P504,Sony Wireless Noise Cancelling Headphones,Wireless black noise cancelling headphones suitable for music and travel,4999,Headphones,Sony,Black,Noise Cancelling,Music

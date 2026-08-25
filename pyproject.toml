@@ -1,0 +1,16 @@
+[project]
+name = "project-nlp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi>=0.141.1",
+    "mysql>=0.0.3",
+    "mysql-connector>=2.2.9",
+    "mysql-connector-python>=26.7.0",
+    "nltk>=3.10.3",
+    "pandas>=3.0.5",
+    "scikit-learn>=1.9.0",
+    "spacy>=3.8.15",
+]
